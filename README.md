@@ -1,0 +1,1 @@
+# sciezka-wewnetrznej-mocy
