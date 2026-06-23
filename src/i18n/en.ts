@@ -1,0 +1,141 @@
+import type { Translations } from './pl';
+
+export const en: Translations = {
+  nav: {
+    mission:  'My Mission',
+    people:   'Helping People',
+    animals:  'Helping Animals',
+    about:    'About Me',
+    contact:  'Contact',
+    cta:      'Book a Session',
+  },
+  hero: {
+    badge:     'Theta Healing · Emotion Code',
+    name:      'Ewa Zduńska',
+    brand:     'Path of Inner Power',
+    tagline:   'Release blocked emotions. Discover your inner strength.',
+    sub:       'Certified practitioner of Emotion Code by Dr. Bradley Nelson and Theta Healing.',
+    ctaPrimary:   "Let's Talk",
+    ctaSecondary: 'Learn More',
+  },
+  mission: {
+    title:  'My Mission',
+    p1: 'With an open heart, I share these words about myself and my work. I trust that my skills and passion can bring you deep transformation, inner peace and the strength to live in harmony with yourself.',
+    p2: 'My name is Ewa Zduńska. I am a certified practitioner of subconscious work – using the "Emotion Code" method by Dr. Bradley Nelson and Theta Healing.',
+    p3: 'My mission – realised through "Path of Inner Power" – is to support people in releasing emotions trapped in the body and psyche, which sabotage their health, relationships and life goals.',
+    p4: 'I work with a gentle yet extremely effective method, rooted in connection with the body, intuition and the subconscious mind.',
+    p5: 'My goal is to help you achieve wellbeing, harmony and true self-acceptance. To help you regain self-belief, vital energy and a genuine zest for life.',
+    quote: 'I invite you on the great adventure that is life and the world around us.',
+  },
+  people: {
+    title:    'Helping People',
+    subtitle: 'I invite you to an individual session in the following areas:',
+    categories: [
+      {
+        icon: '🌿',
+        title: 'Daily Life Challenges',
+        items: [
+          'Lack of vital energy and life force',
+          'Poor results at school or work',
+          'Insomnia',
+          'Anxiety & nervousness',
+          'Addictions',
+          'Lack of self-confidence',
+        ],
+      },
+      {
+        icon: '💞',
+        title: 'Difficult Relationships',
+        items: [
+          'Family relationships',
+          'Romantic relationships',
+          'Professional relationships',
+        ],
+      },
+      {
+        icon: '🌙',
+        title: 'Emotions from Trauma',
+        items: [
+          'Grief and loss',
+          'Break-up or divorce',
+          'Loss of a loved one',
+        ],
+      },
+      {
+        icon: '🫀',
+        title: 'Physical Tensions',
+        items: [
+          'Body aches and pains',
+          'Migraines',
+          'Stammering',
+          'Psychosomatic conditions',
+        ],
+      },
+      {
+        icon: '✨',
+        title: 'Achieving Goals',
+        items: [
+          'Finding the right partner',
+          'Professional burnout',
+          'Personal development',
+        ],
+      },
+      {
+        icon: '🔮',
+        title: 'Subconscious Work',
+        items: [
+          'Emotions trapped around the heart (Heart Wall)',
+          'Inherited ancestral emotions',
+          'Clearing harmful programmes – health, work, relationships, money',
+        ],
+      },
+    ],
+  },
+  animals: {
+    title:    'Helping Animals',
+    subtitle: 'My second passion is working with animals.',
+    intro:    'In 2024 I participated in interspecies communication workshops with animals, led by Amelia Kinkade. Combining the method with the latest discoveries in quantum physics, I can read:',
+    items: [
+      'Whether your animal has blocked emotions from difficult experiences – and release them',
+      'What your animal needs to feel optimally well in your home',
+      'What the true needs of your pet are',
+      'What are the causes of their illness or ailment',
+      'What are the reasons behind their worrying behaviour',
+      'What activity your animal loves most and what fills them with joy',
+      'What irritates them or bothers them in your home',
+      'Why your pet chose your home',
+    ],
+  },
+  about: {
+    title:    'About Me',
+    p1: 'By education I am a sociologist and political scientist; by heart – a woman walking the path of truth, inner strength, empathy and deep feeling.',
+    p2: 'I am a graduate of Silva Method courses in Poland, which taught me meditation and touching the invisible. In life I am guided by intuition, the heart, trust in processes and deep respect for people and their stories, as well as the world of animals and plants.',
+    p3: 'In my private life I love meeting and talking with people, I love the sea, mountains and forests. I also love dancing, a good book and travelling.',
+    p4: 'My dream is to connect with a wild elephant and a dolphin.',
+    certTitle: 'Certifications',
+    certs: [
+      'Certified Practitioner – Emotion Code (Discover Healing)',
+      'Certified Practitioner – Theta Healing',
+      'Interspecies Communication Workshop – Amelia Kinkade (2024)',
+      'Silva Method Graduate',
+    ],
+  },
+  contact: {
+    title:       'Contact',
+    subtitle:    'I invite you to reach out. Our first session can be online or in person.',
+    namePlaceholder:    'Your name',
+    emailPlaceholder:   'Your e-mail address',
+    phonePlaceholder:   'Phone number (optional)',
+    messagePlaceholder: 'Tell me how I can help you...',
+    send:    'Send Message',
+    sending: 'Sending...',
+    sent:    'Message sent! I will be in touch soon.',
+    email:   'e.zdunska@op.pl',
+    phone:   '605 948 423',
+    or:      'or write directly',
+  },
+  footer: {
+    copy:  '© 2025 Ewa Zduńska · Path of Inner Power',
+    love:  'Made with ❤️',
+  },
+};

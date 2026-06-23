@@ -1,0 +1,141 @@
+export const pl = {
+  nav: {
+    mission:  'Moja Misja',
+    people:   'Pomaganie Ludziom',
+    animals:  'Pomoc Zwierzętom',
+    about:    'O Mnie',
+    contact:  'Kontakt',
+    cta:      'Umów spotkanie',
+  },
+  hero: {
+    badge:     'Theta Healing · Kod Emocji',
+    name:      'Ewa Zduńska',
+    brand:     'Ścieżka Wewnętrznej Mocy',
+    tagline:   'Uwolnij zablokowane emocje. Odkryj swoją wewnętrzną siłę.',
+    sub:       'Certyfikowana praktyk metody Kod Emocji dr. Bradleya Nelsona oraz Theta Healing.',
+    ctaPrimary:   'Porozmawiajmy',
+    ctaSecondary: 'Dowiedz się więcej',
+  },
+  mission: {
+    title:  'Moja Misja',
+    p1: 'Z otwartością serca piszę do Ciebie tych kilka słów o mnie i o mojej pracy. Ufam, że moje umiejętności i pasja mogą przynieść Tobie głęboką transformację, wewnętrzne ukojenie i siłę do życia w zgodzie ze sobą.',
+    p2: 'Nazywam się Ewa Zduńska. Jestem certyfikowanym praktykiem pracy z podświadomością – metodą „Kodu Emocji" dr Bradleya Nelsona oraz Theta Healing.',
+    p3: 'Moją misją – realizowaną w ramach działalności „Ścieżka Wewnętrznej Mocy" – jest wspieranie osób w uwalnianiu emocji zablokowanych w ciele i psychice, które sabotują ich zdrowie, relacje i życiowe cele.',
+    p4: 'Pracuję metodą delikatną, lecz niezwykle skuteczną, opartą na połączeniu z ciałem, intuicją i podświadomością.',
+    p5: 'Moim celem jest pomóc Ci osiągnąć dobre samopoczucie, harmonię oraz prawdziwą akceptację siebie. Pomoc w odzyskaniu wiary w siebie, sił witalnych oraz chęci do życia i działania.',
+    quote: 'Zapraszam Cię do wspólnej przygody, jaką jest życie i otaczający nas świat.',
+  },
+  people: {
+    title:    'Pomaganie Ludziom',
+    subtitle: 'Zapraszam Cię na indywidualne spotkanie w poniższych obszarach:',
+    categories: [
+      {
+        icon: '🌿',
+        title: 'Problemy codziennego życia',
+        items: [
+          'Brak sił witalnych i życiowej energii',
+          'Złe wyniki w szkole lub pracy',
+          'Bezsenność',
+          'Nerwowość',
+          'Uzależnienia',
+          'Brak wiary we własne siły',
+        ],
+      },
+      {
+        icon: '💞',
+        title: 'Trudne relacje',
+        items: [
+          'Relacje rodzinne',
+          'Relacje partnerskie',
+          'Relacje zawodowe',
+        ],
+      },
+      {
+        icon: '🌙',
+        title: 'Emocje po traumach',
+        items: [
+          'Przeżywanie żałoby',
+          'Rozpad związku / rozwód',
+          'Strata ukochanej osoby',
+        ],
+      },
+      {
+        icon: '🫀',
+        title: 'Napięcia w ciele',
+        items: [
+          'Bóle ciała',
+          'Migreny',
+          'Jąkanie',
+          'Dolegliwości psychosomatyczne',
+        ],
+      },
+      {
+        icon: '✨',
+        title: 'Osiąganie celów',
+        items: [
+          'Znalezienie właściwego partnera',
+          'Wypalenie zawodowe',
+          'Rozwój osobisty',
+        ],
+      },
+      {
+        icon: '🔮',
+        title: 'Praca z podświadomością',
+        items: [
+          'Emocje zablokowane wokół serca (Mur Serca)',
+          'Emocje dziedziczone po przodkach',
+          'Kasowanie krzywdzących programów – zdrowie, praca, związki, pieniądze',
+        ],
+      },
+    ],
+  },
+  animals: {
+    title:    'Pomoc Zwierzętom',
+    subtitle: 'Drugą moją pasją jest praca ze zwierzętami.',
+    intro:    'W 2024 roku brałam udział w warsztatach z komunikacji międzygatunkowej ze zwierzętami, prowadzonych przez Amelię Kinkade. Łącząc metodę z najnowszymi odkryciami z dziedziny fizyki kwantowej potrafię odczytać:',
+    items: [
+      'Czy Twoje zwierzę ma zablokowane emocje związane z trudnymi doświadczeniami – i uwolnić je',
+      'Czego potrzebuje Twoje zwierzę, aby czuć się optymalnie dobrze w Twoim domu',
+      'Jakie są prawdziwe potrzeby Twojego zwierzaka',
+      'Jakie są przyczyny jego choroby lub dolegliwości',
+      'Jakie są przyczyny związane z niepokojącym zachowaniem zwierzaka',
+      'Jaką czynność Twoje zwierzę kocha najbardziej i co napełnia go radością',
+      'Co go denerwuje lub przeszkadza w Twoim domu',
+      'Dlaczego Twój zwierzak wybrał właśnie Twój dom',
+    ],
+  },
+  about: {
+    title:    'Słowo o Mnie',
+    p1: 'Z wykształcenia jestem socjolożką i politolożką, z serca – kobietą idącą ścieżką prawdy, wewnętrznej siły, empatii i głębokiego czucia.',
+    p2: 'Jestem absolwentką kursów Metodą Silvy w Polsce, które nauczyły mnie medytacji i dotykania tego, co niewidoczne. W życiu kieruję się intuicją, sercem, zaufaniem do procesów i ogromnym szacunkiem do człowieka i jego historii oraz do świata zwierząt i roślin.',
+    p3: 'Prywatnie kocham spotkania i rozmowy z ludźmi, kocham morze, góry i las. Kocham też taniec, dobrą książkę i podróże.',
+    p4: 'Moim marzeniem jest połączyć się z dziko żyjącym słoniem oraz delfinem.',
+    certTitle: 'Certyfikaty',
+    certs: [
+      'Certyfikowany Praktyk – Kod Emocji (Discover Healing)',
+      'Certyfikowany Praktyk – Theta Healing',
+      'Warsztaty Komunikacji Międzygatunkowej – Amelia Kinkade (2024)',
+      'Absolwentka Kursów Metodą Silvy',
+    ],
+  },
+  contact: {
+    title:       'Kontakt',
+    subtitle:    'Zapraszam do kontaktu. Pierwsze spotkanie możemy odbyć online lub osobiście.',
+    namePlaceholder:    'Twoje imię',
+    emailPlaceholder:   'Twój adres e-mail',
+    phonePlaceholder:   'Numer telefonu (opcjonalnie)',
+    messagePlaceholder: 'Opisz, w czym mogę Ci pomóc...',
+    send:    'Wyślij wiadomość',
+    sending: 'Wysyłanie...',
+    sent:    'Wiadomość wysłana! Odezwę się wkrótce.',
+    email:   'e.zdunska@op.pl',
+    phone:   '605 948 423',
+    or:      'lub napisz bezpośrednio',
+  },
+  footer: {
+    copy:  '© 2025 Ewa Zduńska · Ścieżka Wewnętrznej Mocy',
+    love:  'Stworzone z ❤️',
+  },
+} as const;
+
+export type Translations = typeof pl;
